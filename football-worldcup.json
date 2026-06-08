@@ -1,0 +1,112 @@
+[
+  {
+    "year": 1930,
+    "p1": "Uruguay",
+    "p2": "Argentina"
+  },
+  {
+    "year": 1934,
+    "p1": "Italy",
+    "p2": "Czechoslovakia"
+  },
+  {
+    "year": 1938,
+    "p1": "Italy",
+    "p2": "Hungary"
+  },
+  {
+    "year": 1950,
+    "p1": "Uruguay",
+    "p2": "Brazil"
+  },
+  {
+    "year": 1954,
+    "p1": "West Germany",
+    "p2": "Hungary"
+  },
+  {
+    "year": 1958,
+    "p1": "Brazil",
+    "p2": "Sweden"
+  },
+  {
+    "year": 1962,
+    "p1": "Brazil",
+    "p2": "Czechoslovakia"
+  },
+  {
+    "year": 1966,
+    "p1": "England",
+    "p2": "West Germany"
+  },
+  {
+    "year": 1970,
+    "p1": "Brazil",
+    "p2": "Italy"
+  },
+  {
+    "year": 1974,
+    "p1": "West Germany",
+    "p2": "Netherlands"
+  },
+  {
+    "year": 1978,
+    "p1": "Argentina",
+    "p2": "Netherlands"
+  },
+  {
+    "year": 1982,
+    "p1": "Italy",
+    "p2": "West Germany"
+  },
+  {
+    "year": 1986,
+    "p1": "Argentina",
+    "p2": "West Germany"
+  },
+  {
+    "year": 1990,
+    "p1": "West Germany",
+    "p2": "Argentina"
+  },
+  {
+    "year": 1994,
+    "p1": "Brazil",
+    "p2": "Italy"
+  },
+  {
+    "year": 1998,
+    "p1": "France",
+    "p2": "Brazil"
+  },
+  {
+    "year": 2002,
+    "p1": "Brazil",
+    "p2": "Germany"
+  },
+  {
+    "year": 2006,
+    "p1": "Italy",
+    "p2": "France"
+  },
+  {
+    "year": 2010,
+    "p1": "Spain",
+    "p2": "Netherlands"
+  },
+  {
+    "year": 2014,
+    "p1": "Germany",
+    "p2": "Argentina"
+  },
+  {
+    "year": 2018,
+    "p1": "France",
+    "p2": "Croatia"
+  },
+  {
+    "year": 2022,
+    "p1": "Argentina",
+    "p2": "France"
+  }
+]

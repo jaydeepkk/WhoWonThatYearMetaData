@@ -1,0 +1,282 @@
+[
+  {
+    "year": 1970,
+    "p1": "Jochen Rindt",
+    "p2": "Jacky Ickx"
+  },
+  {
+    "year": 1971,
+    "p1": "Jackie Stewart",
+    "p2": "Ronnie Peterson"
+  },
+  {
+    "year": 1972,
+    "p1": "Emerson Fittipaldi",
+    "p2": "Jackie Stewart"
+  },
+  {
+    "year": 1973,
+    "p1": "Jackie Stewart",
+    "p2": "Emerson Fittipaldi"
+  },
+  {
+    "year": 1974,
+    "p1": "Emerson Fittipaldi",
+    "p2": "Clay Regazzoni"
+  },
+  {
+    "year": 1975,
+    "p1": "Niki Lauda",
+    "p2": "Emerson Fittipaldi"
+  },
+  {
+    "year": 1976,
+    "p1": "James Hunt",
+    "p2": "Niki Lauda"
+  },
+  {
+    "year": 1977,
+    "p1": "Niki Lauda",
+    "p2": "Jody Scheckter"
+  },
+  {
+    "year": 1978,
+    "p1": "Mario Andretti",
+    "p2": "Ronnie Peterson"
+  },
+  {
+    "year": 1979,
+    "p1": "Jody Scheckter",
+    "p2": "Gilles Villeneuve"
+  },
+  {
+    "year": 1980,
+    "p1": "Alan Jones",
+    "p2": "Nelson Piquet"
+  },
+  {
+    "year": 1981,
+    "p1": "Nelson Piquet",
+    "p2": "Carlos Reutemann"
+  },
+  {
+    "year": 1982,
+    "p1": "Keke Rosberg",
+    "p2": "Didier Pironi"
+  },
+  {
+    "year": 1983,
+    "p1": "Nelson Piquet",
+    "p2": "Alain Prost"
+  },
+  {
+    "year": 1984,
+    "p1": "Niki Lauda",
+    "p2": "Alain Prost"
+  },
+  {
+    "year": 1985,
+    "p1": "Alain Prost",
+    "p2": "Michele Alboreto"
+  },
+  {
+    "year": 1986,
+    "p1": "Alain Prost",
+    "p2": "Nigel Mansell"
+  },
+  {
+    "year": 1987,
+    "p1": "Nelson Piquet",
+    "p2": "Nigel Mansell"
+  },
+  {
+    "year": 1988,
+    "p1": "Ayrton Senna",
+    "p2": "Alain Prost"
+  },
+  {
+    "year": 1989,
+    "p1": "Alain Prost",
+    "p2": "Ayrton Senna"
+  },
+  {
+    "year": 1990,
+    "p1": "Ayrton Senna",
+    "p2": "Alain Prost"
+  },
+  {
+    "year": 1991,
+    "p1": "Ayrton Senna",
+    "p2": "Nigel Mansell"
+  },
+  {
+    "year": 1992,
+    "p1": "Nigel Mansell",
+    "p2": "Riccardo Patrese"
+  },
+  {
+    "year": 1993,
+    "p1": "Alain Prost",
+    "p2": "Ayrton Senna"
+  },
+  {
+    "year": 1994,
+    "p1": "Michael Schumacher",
+    "p2": "Damon Hill"
+  },
+  {
+    "year": 1995,
+    "p1": "Michael Schumacher",
+    "p2": "Damon Hill"
+  },
+  {
+    "year": 1996,
+    "p1": "Damon Hill",
+    "p2": "Jacques Villeneuve"
+  },
+  {
+    "year": 1997,
+    "p1": "Jacques Villeneuve",
+    "p2": "Heinz-Harald Frentzen"
+  },
+  {
+    "year": 1998,
+    "p1": "Mika Hakkinen",
+    "p2": "Michael Schumacher"
+  },
+  {
+    "year": 1999,
+    "p1": "Mika Hakkinen",
+    "p2": "Eddie Irvine"
+  },
+  {
+    "year": 2000,
+    "p1": "Michael Schumacher",
+    "p2": "Mika Hakkinen"
+  },
+  {
+    "year": 2001,
+    "p1": "Michael Schumacher",
+    "p2": "David Coulthard"
+  },
+  {
+    "year": 2002,
+    "p1": "Michael Schumacher",
+    "p2": "Rubens Barrichello"
+  },
+  {
+    "year": 2003,
+    "p1": "Michael Schumacher",
+    "p2": "Kimi Raikkonen"
+  },
+  {
+    "year": 2004,
+    "p1": "Michael Schumacher",
+    "p2": "Rubens Barrichello"
+  },
+  {
+    "year": 2005,
+    "p1": "Fernando Alonso",
+    "p2": "Kimi Raikkonen"
+  },
+  {
+    "year": 2006,
+    "p1": "Fernando Alonso",
+    "p2": "Michael Schumacher"
+  },
+  {
+    "year": 2007,
+    "p1": "Kimi Raikkonen",
+    "p2": "Lewis Hamilton"
+  },
+  {
+    "year": 2008,
+    "p1": "Lewis Hamilton",
+    "p2": "Felipe Massa"
+  },
+  {
+    "year": 2009,
+    "p1": "Jenson Button",
+    "p2": "Sebastian Vettel"
+  },
+  {
+    "year": 2010,
+    "p1": "Sebastian Vettel",
+    "p2": "Fernando Alonso"
+  },
+  {
+    "year": 2011,
+    "p1": "Sebastian Vettel",
+    "p2": "Jenson Button"
+  },
+  {
+    "year": 2012,
+    "p1": "Sebastian Vettel",
+    "p2": "Fernando Alonso"
+  },
+  {
+    "year": 2013,
+    "p1": "Sebastian Vettel",
+    "p2": "Fernando Alonso"
+  },
+  {
+    "year": 2014,
+    "p1": "Lewis Hamilton",
+    "p2": "Nico Rosberg"
+  },
+  {
+    "year": 2015,
+    "p1": "Lewis Hamilton",
+    "p2": "Nico Rosberg"
+  },
+  {
+    "year": 2016,
+    "p1": "Nico Rosberg",
+    "p2": "Lewis Hamilton"
+  },
+  {
+    "year": 2017,
+    "p1": "Lewis Hamilton",
+    "p2": "Sebastian Vettel"
+  },
+  {
+    "year": 2018,
+    "p1": "Lewis Hamilton",
+    "p2": "Sebastian Vettel"
+  },
+  {
+    "year": 2019,
+    "p1": "Lewis Hamilton",
+    "p2": "Valtteri Bottas"
+  },
+  {
+    "year": 2020,
+    "p1": "Lewis Hamilton",
+    "p2": "Valtteri Bottas"
+  },
+  {
+    "year": 2021,
+    "p1": "Max Verstappen",
+    "p2": "Lewis Hamilton"
+  },
+  {
+    "year": 2022,
+    "p1": "Max Verstappen",
+    "p2": "Charles Leclerc"
+  },
+  {
+    "year": 2023,
+    "p1": "Max Verstappen",
+    "p2": "Sergio Perez"
+  },
+  {
+    "year": 2024,
+    "p1": "Max Verstappen",
+    "p2": "Lando Norris"
+  },
+  {
+    "year": 2025,
+    "p1": "Lando Norris",
+    "p2": "Max Verstappen"
+  }
+]

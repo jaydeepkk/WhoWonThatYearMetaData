@@ -1,0 +1,252 @@
+[
+  {
+    "year": 1975,
+    "p1": "Arthur Ashe",
+    "p2": "Jimmy Connors"
+  },
+  {
+    "year": 1976,
+    "p1": "Bjorn Borg",
+    "p2": "Ilie Nastase"
+  },
+  {
+    "year": 1977,
+    "p1": "Bjorn Borg",
+    "p2": "Jimmy Connors"
+  },
+  {
+    "year": 1978,
+    "p1": "Bjorn Borg",
+    "p2": "Jimmy Connors"
+  },
+  {
+    "year": 1979,
+    "p1": "Bjorn Borg",
+    "p2": "Roscoe Tanner"
+  },
+  {
+    "year": 1980,
+    "p1": "Bjorn Borg",
+    "p2": "John McEnroe"
+  },
+  {
+    "year": 1981,
+    "p1": "John McEnroe",
+    "p2": "Bjorn Borg"
+  },
+  {
+    "year": 1982,
+    "p1": "Jimmy Connors",
+    "p2": "John McEnroe"
+  },
+  {
+    "year": 1983,
+    "p1": "John McEnroe",
+    "p2": "Chris Lewis"
+  },
+  {
+    "year": 1984,
+    "p1": "John McEnroe",
+    "p2": "Jimmy Connors"
+  },
+  {
+    "year": 1985,
+    "p1": "Boris Becker",
+    "p2": "Kevin Curren"
+  },
+  {
+    "year": 1986,
+    "p1": "Boris Becker",
+    "p2": "Ivan Lendl"
+  },
+  {
+    "year": 1987,
+    "p1": "Pat Cash",
+    "p2": "Ivan Lendl"
+  },
+  {
+    "year": 1988,
+    "p1": "Stefan Edberg",
+    "p2": "Boris Becker"
+  },
+  {
+    "year": 1989,
+    "p1": "Boris Becker",
+    "p2": "Stefan Edberg"
+  },
+  {
+    "year": 1990,
+    "p1": "Stefan Edberg",
+    "p2": "Boris Becker"
+  },
+  {
+    "year": 1991,
+    "p1": "Michael Stich",
+    "p2": "Boris Becker"
+  },
+  {
+    "year": 1992,
+    "p1": "Andre Agassi",
+    "p2": "Goran Ivanisevic"
+  },
+  {
+    "year": 1993,
+    "p1": "Pete Sampras",
+    "p2": "Jim Courier"
+  },
+  {
+    "year": 1994,
+    "p1": "Pete Sampras",
+    "p2": "Goran Ivanisevic"
+  },
+  {
+    "year": 1995,
+    "p1": "Pete Sampras",
+    "p2": "Boris Becker"
+  },
+  {
+    "year": 1996,
+    "p1": "Richard Krajicek",
+    "p2": "MaliVai Washington"
+  },
+  {
+    "year": 1997,
+    "p1": "Pete Sampras",
+    "p2": "Cedric Pioline"
+  },
+  {
+    "year": 1998,
+    "p1": "Pete Sampras",
+    "p2": "Goran Ivanisevic"
+  },
+  {
+    "year": 1999,
+    "p1": "Pete Sampras",
+    "p2": "Andre Agassi"
+  },
+  {
+    "year": 2000,
+    "p1": "Pete Sampras",
+    "p2": "Patrick Rafter"
+  },
+  {
+    "year": 2001,
+    "p1": "Goran Ivanisevic",
+    "p2": "Pat Rafter"
+  },
+  {
+    "year": 2002,
+    "p1": "Lleyton Hewitt",
+    "p2": "David Nalbandian"
+  },
+  {
+    "year": 2003,
+    "p1": "Roger Federer",
+    "p2": "Mark Philippoussis"
+  },
+  {
+    "year": 2004,
+    "p1": "Roger Federer",
+    "p2": "Andy Roddick"
+  },
+  {
+    "year": 2005,
+    "p1": "Roger Federer",
+    "p2": "Andy Roddick"
+  },
+  {
+    "year": 2006,
+    "p1": "Roger Federer",
+    "p2": "Rafael Nadal"
+  },
+  {
+    "year": 2007,
+    "p1": "Roger Federer",
+    "p2": "Rafael Nadal"
+  },
+  {
+    "year": 2008,
+    "p1": "Rafael Nadal",
+    "p2": "Roger Federer"
+  },
+  {
+    "year": 2009,
+    "p1": "Roger Federer",
+    "p2": "Andy Roddick"
+  },
+  {
+    "year": 2010,
+    "p1": "Rafael Nadal",
+    "p2": "Tomas Berdych"
+  },
+  {
+    "year": 2011,
+    "p1": "Novak Djokovic",
+    "p2": "Rafael Nadal"
+  },
+  {
+    "year": 2012,
+    "p1": "Roger Federer",
+    "p2": "Andy Murray"
+  },
+  {
+    "year": 2013,
+    "p1": "Andy Murray",
+    "p2": "Novak Djokovic"
+  },
+  {
+    "year": 2014,
+    "p1": "Novak Djokovic",
+    "p2": "Roger Federer"
+  },
+  {
+    "year": 2015,
+    "p1": "Novak Djokovic",
+    "p2": "Roger Federer"
+  },
+  {
+    "year": 2016,
+    "p1": "Andy Murray",
+    "p2": "Milos Raonic"
+  },
+  {
+    "year": 2017,
+    "p1": "Roger Federer",
+    "p2": "Marin Cilic"
+  },
+  {
+    "year": 2018,
+    "p1": "Novak Djokovic",
+    "p2": "Kevin Anderson"
+  },
+  {
+    "year": 2019,
+    "p1": "Novak Djokovic",
+    "p2": "Roger Federer"
+  },
+  {
+    "year": 2021,
+    "p1": "Novak Djokovic",
+    "p2": "Matteo Berrettini"
+  },
+  {
+    "year": 2022,
+    "p1": "Novak Djokovic",
+    "p2": "Nick Kyrgios"
+  },
+  {
+    "year": 2023,
+    "p1": "Carlos Alcaraz",
+    "p2": "Novak Djokovic"
+  },
+  {
+    "year": 2024,
+    "p1": "Carlos Alcaraz",
+    "p2": "Novak Djokovic"
+  },
+  {
+    "year": 2025,
+    "p1": "Jannik Sinner",
+    "p2": "Carlos Alcaraz"
+  }
+]

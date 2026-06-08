@@ -1,0 +1,282 @@
+[
+  {
+    "year": 1970,
+    "p1": "Lotus",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 1971,
+    "p1": "Tyrrell",
+    "p2": "BRM"
+  },
+  {
+    "year": 1972,
+    "p1": "Lotus",
+    "p2": "Tyrrell"
+  },
+  {
+    "year": 1973,
+    "p1": "Lotus",
+    "p2": "Tyrrell"
+  },
+  {
+    "year": 1974,
+    "p1": "McLaren",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 1975,
+    "p1": "Ferrari",
+    "p2": "Brabham"
+  },
+  {
+    "year": 1976,
+    "p1": "Ferrari",
+    "p2": "McLaren"
+  },
+  {
+    "year": 1977,
+    "p1": "Ferrari",
+    "p2": "Lotus"
+  },
+  {
+    "year": 1978,
+    "p1": "Lotus",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 1979,
+    "p1": "Ferrari",
+    "p2": "Williams"
+  },
+  {
+    "year": 1980,
+    "p1": "Williams",
+    "p2": "Ligier"
+  },
+  {
+    "year": 1981,
+    "p1": "Williams",
+    "p2": "Brabham"
+  },
+  {
+    "year": 1982,
+    "p1": "Ferrari",
+    "p2": "McLaren"
+  },
+  {
+    "year": 1983,
+    "p1": "Ferrari",
+    "p2": "Renault"
+  },
+  {
+    "year": 1984,
+    "p1": "McLaren",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 1985,
+    "p1": "McLaren",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 1986,
+    "p1": "Williams",
+    "p2": "McLaren"
+  },
+  {
+    "year": 1987,
+    "p1": "Williams",
+    "p2": "McLaren"
+  },
+  {
+    "year": 1988,
+    "p1": "McLaren",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 1989,
+    "p1": "McLaren",
+    "p2": "Williams"
+  },
+  {
+    "year": 1990,
+    "p1": "McLaren",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 1991,
+    "p1": "McLaren",
+    "p2": "Williams"
+  },
+  {
+    "year": 1992,
+    "p1": "Williams",
+    "p2": "McLaren"
+  },
+  {
+    "year": 1993,
+    "p1": "Williams",
+    "p2": "McLaren"
+  },
+  {
+    "year": 1994,
+    "p1": "Williams",
+    "p2": "Benetton"
+  },
+  {
+    "year": 1995,
+    "p1": "Benetton",
+    "p2": "Williams"
+  },
+  {
+    "year": 1996,
+    "p1": "Williams",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 1997,
+    "p1": "Williams",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 1998,
+    "p1": "McLaren",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 1999,
+    "p1": "Ferrari",
+    "p2": "McLaren"
+  },
+  {
+    "year": 2000,
+    "p1": "Ferrari",
+    "p2": "McLaren"
+  },
+  {
+    "year": 2001,
+    "p1": "Ferrari",
+    "p2": "McLaren"
+  },
+  {
+    "year": 2002,
+    "p1": "Ferrari",
+    "p2": "Williams"
+  },
+  {
+    "year": 2003,
+    "p1": "Ferrari",
+    "p2": "Williams"
+  },
+  {
+    "year": 2004,
+    "p1": "Ferrari",
+    "p2": "BAR"
+  },
+  {
+    "year": 2005,
+    "p1": "Renault",
+    "p2": "McLaren"
+  },
+  {
+    "year": 2006,
+    "p1": "Renault",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 2007,
+    "p1": "Ferrari",
+    "p2": "BMW Sauber"
+  },
+  {
+    "year": 2008,
+    "p1": "Ferrari",
+    "p2": "McLaren"
+  },
+  {
+    "year": 2009,
+    "p1": "Brawn GP",
+    "p2": "Red Bull"
+  },
+  {
+    "year": 2010,
+    "p1": "Red Bull",
+    "p2": "McLaren"
+  },
+  {
+    "year": 2011,
+    "p1": "Red Bull",
+    "p2": "McLaren"
+  },
+  {
+    "year": 2012,
+    "p1": "Red Bull",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 2013,
+    "p1": "Red Bull",
+    "p2": "Mercedes"
+  },
+  {
+    "year": 2014,
+    "p1": "Mercedes",
+    "p2": "Red Bull"
+  },
+  {
+    "year": 2015,
+    "p1": "Mercedes",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 2016,
+    "p1": "Mercedes",
+    "p2": "Red Bull"
+  },
+  {
+    "year": 2017,
+    "p1": "Mercedes",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 2018,
+    "p1": "Mercedes",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 2019,
+    "p1": "Mercedes",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 2020,
+    "p1": "Mercedes",
+    "p2": "Red Bull"
+  },
+  {
+    "year": 2021,
+    "p1": "Mercedes",
+    "p2": "Red Bull"
+  },
+  {
+    "year": 2022,
+    "p1": "Red Bull",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 2023,
+    "p1": "Red Bull",
+    "p2": "Mercedes"
+  },
+  {
+    "year": 2024,
+    "p1": "McLaren",
+    "p2": "Ferrari"
+  },
+  {
+    "year": 2025,
+    "p1": "McLaren",
+    "p2": "Mercedes"
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "year": 1966,
+    "p1": "Liverpool",
+    "p2": "Leeds United"
+  },
+  {
+    "year": 1967,
+    "p1": "Manchester United",
+    "p2": "Nottingham Forest"
+  },
+  {
+    "year": 1968,
+    "p1": "Manchester City",
+    "p2": "Manchester United"
+  },
+  {
+    "year": 1969,
+    "p1": "Leeds United",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 1970,
+    "p1": "Everton",
+    "p2": "Leeds United"
+  },
+  {
+    "year": 1971,
+    "p1": "Arsenal",
+    "p2": "Leeds United"
+  },
+  {
+    "year": 1972,
+    "p1": "Derby County",
+    "p2": "Leeds United"
+  },
+  {
+    "year": 1973,
+    "p1": "Liverpool",
+    "p2": "Arsenal"
+  },
+  {
+    "year": 1974,
+    "p1": "Leeds United",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 1975,
+    "p1": "Derby County",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 1976,
+    "p1": "Liverpool",
+    "p2": "Queens Park Rangers"
+  },
+  {
+    "year": 1977,
+    "p1": "Liverpool",
+    "p2": "Manchester City"
+  },
+  {
+    "year": 1978,
+    "p1": "Nottingham Forest",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 1979,
+    "p1": "Liverpool",
+    "p2": "Nottingham Forest"
+  },
+  {
+    "year": 1980,
+    "p1": "Liverpool",
+    "p2": "Manchester United"
+  },
+  {
+    "year": 1981,
+    "p1": "Aston Villa",
+    "p2": "Ipswich Town"
+  },
+  {
+    "year": 1982,
+    "p1": "Liverpool",
+    "p2": "Ipswich Town"
+  },
+  {
+    "year": 1983,
+    "p1": "Liverpool",
+    "p2": "Watford"
+  },
+  {
+    "year": 1984,
+    "p1": "Liverpool",
+    "p2": "Southampton"
+  },
+  {
+    "year": 1985,
+    "p1": "Everton",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 1986,
+    "p1": "Liverpool",
+    "p2": "Everton"
+  },
+  {
+    "year": 1987,
+    "p1": "Everton",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 1988,
+    "p1": "Liverpool",
+    "p2": "Manchester United"
+  },
+  {
+    "year": 1989,
+    "p1": "Arsenal",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 1990,
+    "p1": "Liverpool",
+    "p2": "Aston Villa"
+  },
+  {
+    "year": 1991,
+    "p1": "Arsenal",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 1992,
+    "p1": "Leeds United",
+    "p2": "Manchester United"
+  },
+  {
+    "year": 1993,
+    "p1": "Manchester United",
+    "p2": "Aston Villa"
+  },
+  {
+    "year": 1994,
+    "p1": "Manchester United",
+    "p2": "Blackburn Rovers"
+  },
+  {
+    "year": 1995,
+    "p1": "Blackburn Rovers",
+    "p2": "Manchester United"
+  },
+  {
+    "year": 1996,
+    "p1": "Manchester United",
+    "p2": "Newcastle United"
+  },
+  {
+    "year": 1997,
+    "p1": "Manchester United",
+    "p2": "Newcastle United"
+  },
+  {
+    "year": 1998,
+    "p1": "Arsenal",
+    "p2": "Manchester United"
+  },
+  {
+    "year": 1999,
+    "p1": "Manchester United",
+    "p2": "Arsenal"
+  },
+  {
+    "year": 2000,
+    "p1": "Manchester United",
+    "p2": "Arsenal"
+  },
+  {
+    "year": 2001,
+    "p1": "Manchester United",
+    "p2": "Arsenal"
+  },
+  {
+    "year": 2002,
+    "p1": "Arsenal",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 2003,
+    "p1": "Manchester United",
+    "p2": "Arsenal"
+  },
+  {
+    "year": 2004,
+    "p1": "Arsenal",
+    "p2": "Chelsea"
+  },
+  {
+    "year": 2005,
+    "p1": "Chelsea",
+    "p2": "Arsenal"
+  },
+  {
+    "year": 2006,
+    "p1": "Chelsea",
+    "p2": "Manchester United"
+  },
+  {
+    "year": 2007,
+    "p1": "Manchester United",
+    "p2": "Chelsea"
+  },
+  {
+    "year": 2008,
+    "p1": "Manchester United",
+    "p2": "Chelsea"
+  },
+  {
+    "year": 2009,
+    "p1": "Manchester United",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 2010,
+    "p1": "Chelsea",
+    "p2": "Manchester United"
+  },
+  {
+    "year": 2011,
+    "p1": "Manchester United",
+    "p2": "Chelsea"
+  },
+  {
+    "year": 2012,
+    "p1": "Manchester City",
+    "p2": "Manchester United"
+  },
+  {
+    "year": 2013,
+    "p1": "Manchester United",
+    "p2": "Manchester City"
+  },
+  {
+    "year": 2014,
+    "p1": "Manchester City",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 2015,
+    "p1": "Chelsea",
+    "p2": "Manchester City"
+  },
+  {
+    "year": 2016,
+    "p1": "Leicester City",
+    "p2": "Arsenal"
+  },
+  {
+    "year": 2017,
+    "p1": "Chelsea",
+    "p2": "Tottenham Hotspur"
+  },
+  {
+    "year": 2018,
+    "p1": "Manchester City",
+    "p2": "Manchester United"
+  },
+  {
+    "year": 2019,
+    "p1": "Manchester City",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 2020,
+    "p1": "Liverpool",
+    "p2": "Manchester City"
+  },
+  {
+    "year": 2021,
+    "p1": "Manchester City",
+    "p2": "Manchester United"
+  },
+  {
+    "year": 2022,
+    "p1": "Manchester City",
+    "p2": "Liverpool"
+  },
+  {
+    "year": 2023,
+    "p1": "Manchester City",
+    "p2": "Arsenal"
+  },
+  {
+    "year": 2024,
+    "p1": "Manchester City",
+    "p2": "Arsenal"
+  },
+  {
+    "year": 2025,
+    "p1": "Liverpool",
+    "p2": "Arsenal"
+  },
+  {
+    "year": 2026,
+    "p1": "Arsenal",
+    "p2": "Manchester City"
+  }
+]
